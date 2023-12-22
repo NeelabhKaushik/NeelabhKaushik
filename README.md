@@ -39,6 +39,8 @@ Hello, I'm Neelabh Kaushik, a 3rd-year student at Bennett University. Proficient
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </picture>
-</a></p>### Badges<b>My GitHub Stats</b><a
-href="http://www.github.com/neelabhkaushik"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=neelabhkaushik&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/neelabhkaushik/best-nextjs-starter-template" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=neelabhkaushik&repo=best-nextjs-starter-template&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+</a></p>
+
+### Badges
+<b>My GitHub Stats</b>
+<ahref="http://www.github.com/neelabhkaushik"><imgsrc="https://github-readme-streak-stats.herokuapp.com/?user=neelabhkaushik&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/neelabhkaushik/best-nextjs-starter-template" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=neelabhkaushik&repo=best-nextjs-starter-template&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
